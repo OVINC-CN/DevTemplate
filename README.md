@@ -1,3 +1,3 @@
-# DevTemplate
+# Vue3 Template
 
-Develop templates for OVINC services, you can find all templates in [Branches](https://github.com/OVINC-CN/DevTemplate/branches/all?query=template_)
+Vue3 Template for OVINC Services
