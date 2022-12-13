@@ -1,2 +1,2 @@
-# DevTemplate
-Develop Template for OVINC Services
+# Django Template
+Django Template for OVINC Services
